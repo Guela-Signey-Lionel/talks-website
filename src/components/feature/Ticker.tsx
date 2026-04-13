@@ -22,7 +22,7 @@ export default function Ticker() {
 
   const messages = [
     ' Bienvenue au TALKS - Mouvement pour une Centrafrique unie',
-    ' Assemblée nationale : prochaine réunion le 15 mai 2026',
+    ' Assemblée nationale : prochaine réunion dans le mois de mai 2026',
     ' Mission: Promouvoir la démocratie participative et l\'unité',
     ' Ensemble pour l\'avenir : Touadéra A Lingbi Na Koua So',
     ' Rejoignez-nous et participez au changement',
