@@ -109,7 +109,7 @@ export default function HeroSection() {
 
               {/* Intro */}
               <p className="text-white/80 text-base md:text-lg font-medium mb-2 leading-snug">
-                Bienvenue chez <span className="italic font-semibold text-[#d4af37]">TALKS</span> du <span className="font-extrabold text-white">TALKS</span> :
+                Bienvenue sur le <span className="italic font-semibold text-[#d4af37]">Site Officiel</span> du <span className="font-extrabold text-white">TALKS</span> :
               </p>
 
               {/* Main title */}
@@ -159,7 +159,7 @@ export default function HeroSection() {
                   <div className="w-5 h-5 flex items-center justify-center">
                     <i className="ri-shield-check-line text-[#5cb85c]" />
                   </div>
-                  Mouvement Officiel
+                  Association Officielle
                 </div>
                 <div className="flex items-center gap-2 text-white/60 text-sm">
                   <div className="w-5 h-5 flex items-center justify-center">
