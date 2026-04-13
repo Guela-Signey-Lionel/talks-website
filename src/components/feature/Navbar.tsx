@@ -54,7 +54,7 @@ export default function Navbar() {
             <span className="font-extrabold text-lg sm:text-xl tracking-widest text-[#003082] leading-tight">
               TALKS
             </span>
-            <span className="text-[9px] font-medium text-[#003082]/60 tracking-wide leading-tight hidden lg:block" style={{ maxWidth: '180px' }}>
+            <span className="text-[9px] font-medium text-[#003082]/60 tracking-wide leading-tight" style={{ maxWidth: '180px' }}>
               Touadéra A Lingbi Na Koua So
             </span>
           </div>
