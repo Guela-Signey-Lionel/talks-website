@@ -104,7 +104,7 @@ export default function HeroSection() {
               {/* Badge */}
               <div className="inline-flex items-center gap-2 bg-white/15 text-white text-[11px] sm:text-xs font-bold uppercase tracking-widest px-4 py-2 rounded-full mb-6 border border-white/20">
                 <span className="w-2 h-2 rounded-full bg-[#d4af37] animate-pulse" />
-                Mouvement Politique Centrafricain
+                Association Politique Centrafricaine
               </div>
 
               {/* Intro */}
