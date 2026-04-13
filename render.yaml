@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: talks-website
+    env: node
+    region: frankfurt
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: node server.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+    routes:
+      - type: http
+        path: /
+        target: talks-website
